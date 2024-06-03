@@ -1,0 +1,309 @@
+{
+  "theater": {
+    "name": "Visiante Cinema",
+    "address": "123 Movie Lane, Filmtown, FL 45678",
+    "contact": "555-1234",
+    "movies": [
+      {
+        "title": "The Adventures of ChatGPT",
+        "genre": "Science Fiction",
+        "duration": "120 minutes",
+        "rating": "PG",
+        "showtimes": [
+          {
+            "time": "1:00 PM",
+            "screen": 1
+          },
+          {
+            "time": "4:00 PM",
+            "screen": 1
+          },
+          {
+            "time": "7:00 PM",
+            "screen": 1
+          }
+        ]
+      },
+      {
+        "title": "Mystery at the Mansion",
+        "genre": "Mystery",
+        "duration": "135 minutes",
+        "rating": "PG-13",
+        "showtimes": [
+          {
+            "time": "2:00 PM",
+            "screen": 2
+          },
+          {
+            "time": "5:00 PM",
+            "screen": 2
+          },
+          {
+            "time": "8:00 PM",
+            "screen": 2
+          }
+        ]
+      },
+      {
+        "title": "Comedy Night",
+        "genre": "Comedy",
+        "duration": "90 minutes",
+        "rating": "R",
+        "showtimes": [
+          {
+            "time": "3:00 PM",
+            "screen": 3
+          },
+          {
+            "time": "6:00 PM",
+            "screen": 3
+          },
+          {
+            "time": "9:00 PM",
+            "screen": 3
+          }
+        ]
+      },
+      {
+        "title": "Epic Fantasy Battle",
+        "genre": "Fantasy",
+        "duration": "150 minutes",
+        "rating": "PG-13",
+        "showtimes": [
+          {
+            "time": "12:00 PM",
+            "screen": 4
+          },
+          {
+            "time": "3:30 PM",
+            "screen": 4
+          },
+          {
+            "time": "7:00 PM",
+            "screen": 4
+          }
+        ]
+      },
+      {
+        "title": "Animated Fun",
+        "genre": "Animation",
+        "duration": "105 minutes",
+        "rating": "G",
+        "showtimes": [
+          {
+            "time": "10:00 AM",
+            "screen": 5
+          },
+          {
+            "time": "1:00 PM",
+            "screen": 5
+          },
+          {
+            "time": "4:00 PM",
+            "screen": 5
+          }
+        ]
+      },
+      {
+        "title": "Romantic Evening",
+        "genre": "Romance",
+        "duration": "110 minutes",
+        "rating": "PG",
+        "showtimes": [
+          {
+            "time": "12:30 PM",
+            "screen": 6
+          },
+          {
+            "time": "3:30 PM",
+            "screen": 6
+          },
+          {
+            "time": "6:30 PM",
+            "screen": 6
+          }
+        ]
+      },
+      {
+        "title": "Thriller Night",
+        "genre": "Thriller",
+        "duration": "140 minutes",
+        "rating": "R",
+        "showtimes": [
+          {
+            "time": "1:15 PM",
+            "screen": 7
+          },
+          {
+            "time": "4:15 PM",
+            "screen": 7
+          },
+          {
+            "time": "7:15 PM",
+            "screen": 7
+          }
+        ]
+      },
+      {
+        "title": "Horror Fest",
+        "genre": "Horror",
+        "duration": "100 minutes",
+        "rating": "R",
+        "showtimes": [
+          {
+            "time": "2:30 PM",
+            "screen": 8
+          },
+          {
+            "time": "5:30 PM",
+            "screen": 8
+          },
+          {
+            "time": "8:30 PM",
+            "screen": 8
+          }
+        ]
+      },
+      {
+        "title": "Historical Drama",
+        "genre": "Drama",
+        "duration": "130 minutes",
+        "rating": "PG-13",
+        "showtimes": [
+          {
+            "time": "11:00 AM",
+            "screen": 9
+          },
+          {
+            "time": "2:00 PM",
+            "screen": 9
+          },
+          {
+            "time": "5:00 PM",
+            "screen": 9
+          }
+        ]
+      },
+      {
+        "title": "Documentary Hour",
+        "genre": "Documentary",
+        "duration": "90 minutes",
+        "rating": "G",
+        "showtimes": [
+          {
+            "time": "10:00 AM",
+            "screen": 10
+          },
+          {
+            "time": "1:00 PM",
+            "screen": 10
+          },
+          {
+            "time": "4:00 PM",
+            "screen": 10
+          }
+        ]
+      },
+      {
+        "title": "Action Packed",
+        "genre": "Action",
+        "duration": "120 minutes",
+        "rating": "PG-13",
+        "showtimes": [
+          {
+            "time": "12:00 PM",
+            "screen": 11
+          },
+          {
+            "time": "3:00 PM",
+            "screen": 11
+          },
+          {
+            "time": "6:00 PM",
+            "screen": 11
+          }
+        ]
+      },
+      {
+        "title": "Sci-Fi Extravaganza",
+        "genre": "Science Fiction",
+        "duration": "145 minutes",
+        "rating": "PG-13",
+        "showtimes": [
+          {
+            "time": "1:00 PM",
+            "screen": 12
+          },
+          {
+            "time": "4:00 PM",
+            "screen": 12
+          },
+          {
+            "time": "7:00 PM",
+            "screen": 12
+          }
+        ]
+      },
+      {
+        "title": "Family Time",
+        "genre": "Family",
+        "duration": "95 minutes",
+        "rating": "G",
+        "showtimes": [
+          {
+            "time": "10:30 AM",
+            "screen": 13
+          },
+          {
+            "time": "1:30 PM",
+            "screen": 13
+          },
+          {
+            "time": "4:30 PM",
+            "screen": 13
+          }
+        ]
+      },
+      {
+        "title": "Adventure Quest",
+        "genre": "Adventure",
+        "duration": "115 minutes",
+        "rating": "PG",
+        "showtimes": [
+          {
+            "time": "11:00 AM",
+            "screen": 14
+          },
+          {
+            "time": "2:00 PM",
+            "screen": 14
+          },
+          {
+            "time": "5:00 PM",
+            "screen": 14
+          }
+        ]
+      },
+      {
+        "title": "Musical Extravaganza",
+        "genre": "Musical",
+        "duration": "125 minutes",
+        "rating": "PG",
+        "showtimes": [
+          {
+            "time": "12:30 PM",
+            "screen": 15
+          },
+          {
+            "time": "3:30 PM",
+            "screen": 15
+          },
+          {
+            "time": "6:30 PM",
+            "screen": 15
+          }
+        ]
+      }
+    ]
+  }
+}
